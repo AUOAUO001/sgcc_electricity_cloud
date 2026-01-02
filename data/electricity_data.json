@@ -1,5 +1,17 @@
 {
   "status": "success",
-  "timestamp": "2026-01-02 19:15:52",
-  "users": []
+  "timestamp": "2026-01-03 07:25:12",
+  "users": [
+    {
+      "user_id": "1150000473314",
+      "user_id_suffix": "3314",
+      "balance": 62.67,
+      "last_daily_date": "2026-01-01",
+      "last_daily_usage": 10.59,
+      "yearly_charge": null,
+      "yearly_usage": null,
+      "month_charge": null,
+      "month_usage": null
+    }
+  ]
 }
