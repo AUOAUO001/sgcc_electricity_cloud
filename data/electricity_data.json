@@ -1,17 +1,6 @@
 {
-  "status": "success",
-  "timestamp": "2026-01-05 07:26:05",
-  "users": [
-    {
-      "user_id": "1150001398435",
-      "user_id_suffix": "8435",
-      "balance": 90.12,
-      "last_daily_date": "2026-01-03",
-      "last_daily_usage": 2.3,
-      "yearly_charge": null,
-      "yearly_usage": null,
-      "month_charge": null,
-      "month_usage": null
-    }
-  ]
+  "status": "error",
+  "message": "Login failed",
+  "timestamp": "2026-01-05 19:34:15",
+  "users": []
 }
