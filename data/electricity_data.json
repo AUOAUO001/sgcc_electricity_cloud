@@ -1,5 +1,6 @@
 {
-  "status": "success",
-  "timestamp": "2026-01-19 07:37:37",
+  "status": "error",
+  "message": "Login failed",
+  "timestamp": "2026-01-19 19:36:59",
   "users": []
 }
