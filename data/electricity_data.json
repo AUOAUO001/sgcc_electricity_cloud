@@ -1,6 +1,6 @@
 {
   "status": "error",
-  "message": "Login failed",
-  "timestamp": "2026-02-17 19:55:05",
+  "message": "Message: Element <div class=\"user\"> is not clickable at point (1250,267) because another element <div class=\"el-loading-mask is-fullscreen el-loading-fade-enter-active el-loading-fade-enter-to\"> obscures it; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception\nStacktrace:\nRemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5\nElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:351:5\nwebdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:175:11\ninteraction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:134:11\nclickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:327:29\nreceiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:210:31\n",
+  "timestamp": "2026-02-18 07:51:18",
   "users": []
 }
